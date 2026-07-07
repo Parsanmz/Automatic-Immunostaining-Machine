@@ -28,6 +28,8 @@ Supervisors: Abdul Barakat, Claire Leclech
 - PTFE tubing (OD 1.07 mm / ID 0.56 mm)
 - Custom 6-port manifold (5 inlets, 1 outlet)
 
+![Immunostaining Machine](machine.png)
+
 ### Software
 - [Arduino IDE](https://www.arduino.cc/en/software) (to upload the firmware)
 - Python 3.7 or later
