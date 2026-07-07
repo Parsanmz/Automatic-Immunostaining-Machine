@@ -3,6 +3,8 @@
 
 An automated immunostaining system controlled via an Arduino Uno and a Python desktop GUI. The system sequences reagent delivery, incubation, washing, and vacuum steps automatically, with all parameters configurable from the GUI before each experiment.
 
+Supervisors: Abdul Barakat, Claire Leclech
+
 ---
 
 ## Files
